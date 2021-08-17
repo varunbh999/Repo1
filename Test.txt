@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 96E7-5F3A
+
+ Directory of C:\Users\varun\Git_Project
+
+17-08-2021  21:23    <DIR>          .
+17-08-2021  21:23    <DIR>          ..
+17-08-2021  21:23                 0 Test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  945,613,205,504 bytes free
